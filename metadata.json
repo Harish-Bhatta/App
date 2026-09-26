@@ -1,0 +1,6 @@
+{
+  "name": "PSBS Learning",
+  "description": "School portal and learning workspace with multi-role authentication (Student, Teacher, Admin, Super Admin), academic progress tracking, glassmorphism UI, and AI-driven adaptive tutoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
